@@ -7,8 +7,9 @@
 </p>
 
 ---
-
-### 🧠 Sobre mim
+<div style="background-color:#f0f8ff; padding: 20px; border-radius: 10px;">
+  <h2 style="color:#003366;">Sobre mim </h2>
+  <p style="color:#333;">
 
 Sou formada em Administração, com especialização em Administração Financeira, e atualmente curso Sistemas de Informação. Minha trajetória combina experiência em gestão e visão estratégica com sólida formação técnica em tecnologia, dados e IA.
 
@@ -20,7 +21,8 @@ Venho aprofundando competências em:
 - Metodologias Ágeis e Business Agility
 
 Tenho interesse especial por investimentos e educação financeira, o que reforça minha capacidade analítica e visão de risco com foco na tomada de decisões baseadas em dados. Acredito no poder da tecnologia como impulsionadora de resultados reais.
-
+  </p>
+</div>
 ---
 
 ### 📚 Certificações em destaque
