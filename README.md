@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://link-da-imagem.com/imagem.png" alt="banner" />
+</p>
 
 <!--
 **SamaraAlcantara/SamaraAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
