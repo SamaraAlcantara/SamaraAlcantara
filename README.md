@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Banner Profissional" />
-</p>
-
 <h1 align="center">Olá! Eu sou a Samara 👩‍💻</h1>
 
 <p align="center">
